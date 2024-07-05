@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+}
+form{
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.inputgroup input{
+    border: none;
+    border: 1px solid black;
+
+}
+.inputgroup .error input{
+    border:  1px solid red;
+}
+.inputgroup .success input{
+    border:  1px solid lawngreen;
+}
